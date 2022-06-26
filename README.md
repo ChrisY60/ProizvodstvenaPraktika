@@ -22,4 +22,5 @@ make
 ./todoApp
 -INSTALL
 sudo apt-get install libjsoncpp-dev
+-Препоръчително е да се отвори с QT creator
 ```
