@@ -16,7 +16,7 @@ To Do Task Manager
                   клас TaskManager и Task, конзолен интерфейс
 ```
 ```diff
--RUN
+-in terminal RUN
 qmake todoApp.pro
 make
 ./todoApp
