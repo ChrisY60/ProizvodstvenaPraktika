@@ -15,4 +15,11 @@ To Do Task Manager
 Симеон Ангелов    - Търсене на задача, добавяне на задачи и валидации, означаване на задачи като готови, премахване на задачи,
                   клас TaskManager и Task, конзолен интерфейс
 
+```diff
+-RUN
+qmake todoApp.pro
+make
+./todoApp
+-INSTALL
+sudo apt-get install libjsoncpp-dev
 ```
