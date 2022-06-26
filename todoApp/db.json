@@ -1,0 +1,30 @@
+{
+   "Nov" : {
+      "id" : "Nov/qCtcwzL9hQ8u",
+      "password" : 1548608496,
+      "tasks" : []
+   },
+   "admin" : {
+      "id" : "id",
+      "password" : 12345,
+      "tasks" : []
+   },
+   "nino" : {
+      "id" : "nino/dcB7ugpqmyO",
+      "password" : 804179305,
+      "tasks" : [
+         {
+            "deadline" : "v",
+            "description" : "v",
+            "title" : "v",
+            "type" : "LUVK"
+         },
+         {
+            "deadline" : "w",
+            "description" : "w",
+            "title" : "w",
+            "type" : "VKV["
+         }
+      ]
+   }
+}
