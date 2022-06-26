@@ -1,9 +1,6 @@
 # ProizvodstvenaPraktika
 ToDo Task Manager
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
++ Task Manager
+# Кристиян Янков 10а, Кристиян Богданов 10а, Симеон Ангелов 10а
 ```
